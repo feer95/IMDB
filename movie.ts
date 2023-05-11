@@ -21,7 +21,7 @@ export class Movie {
     // Obligatorios
     this.title = title
     this.releaseYear = releaseYear
-    this. nacionality = nacionality
+    this.nacionality = nacionality
     this.genre = genre
     // No obligatorios
     this.actors = []
